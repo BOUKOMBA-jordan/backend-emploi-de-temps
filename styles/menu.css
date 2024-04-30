@@ -1,0 +1,13 @@
+.menu-bouton-1{
+    margin-left: 2%;
+}
+@media only screen and (min-width: 768px) {
+    .menu-bouton{
+        margin-left: 2%;
+    }
+  }
+
+  .menu-principal{
+    background-color: rgb(2, 75, 32);
+    border-radius: 7px;
+}
